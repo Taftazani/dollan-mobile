@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17561684051",
+    "firebase_url": "https://dollan.firebaseio.com",
+    "project_id": "dollan",
+    "storage_bucket": "dollan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17561684051:android:b64bcac998051162",
+        "android_client_info": {
+          "package_name": "com.dollan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17561684051-u2ma4eiskvumf3g1vp777pigun0a6eam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dollan.app",
+            "certificate_hash": "44e4eca2bfa0abeeab4258711b405fe0c10d4073"
+          }
+        },
+        {
+          "client_id": "17561684051-vd607q0mjbj7p5nutemuc37qfanleqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRfm8Doff0627cQZNRkG53Ifmhr8V5zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17561684051-vd607q0mjbj7p5nutemuc37qfanleqpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
